@@ -1,6 +1,6 @@
-# ebee_test
+# Ebee Application (Flutter)
 
-A new Flutter application.
+A Flutter for Ebee, a social agent to be presented at the Student Design Competition at the Human-Robot Interaction 2021 Conference.
 
 ## Getting Started
 
