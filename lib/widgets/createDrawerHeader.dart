@@ -14,10 +14,10 @@ Widget createDrawerHeader() {
         Positioned(
             bottom: 12.0,
             left: 16.0,
-            child: Text("Ebee Robot App \n\nMenu",
+            child: Text("menu",
                 style: TextStyle(
                     color: Colors.white,
-                    fontSize: 20.0,
+                    fontSize: 24.0,
                     fontWeight: FontWeight.w500))),
       ]));
 }

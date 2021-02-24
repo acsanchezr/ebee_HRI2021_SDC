@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ebee_test/routes/pageRoute.dart';
-import 'package:ebee_test/fragments/homePage.dart';
-import 'package:ebee_test/fragments/aboutPage.dart';
-import 'package:ebee_test/fragments/add_wordPage.dart';
-import 'package:ebee_test/fragments/dictionaryPage.dart';
-import 'package:ebee_test/fragments/contactPage.dart';
+import 'package:ebee_test/pages/homePage.dart';
+import 'package:ebee_test/pages/aboutPage.dart';
+import 'package:ebee_test/pages/add_wordPage.dart';
+import 'package:ebee_test/pages/dictionaryPage.dart';
+import 'package:ebee_test/pages/contactPage.dart';
 
 void main() {
   runApp(MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget { //This widget is the root of your applicat
       // title: appTitle,
       theme: ThemeData( //application theme
         primarySwatch: Colors.yellow,
-        fontFamily: 'RobotoMono',
+        fontFamily: 'Montserrat',
       ),
       home: homePage(),
     routes: {

@@ -9,7 +9,11 @@ Widget createDrawerBodyItem(
         Icon(icon),
         Padding(
           padding: EdgeInsets.only(left: 8.0),
-          child: Text(text),
+          child: Text(text,
+          style: TextStyle(
+            fontSize: 18.0,
+          ),
+          ),
         )
       ],
     ),

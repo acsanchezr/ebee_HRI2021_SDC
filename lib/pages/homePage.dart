@@ -1,19 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:ebee_test/navigationDrawer/navigationDrawer.dart';
 
-
 class homePage extends StatelessWidget {
   static const String routeName = '/homePage';
 
-  homePage({Key key, this.title}) : super(key: key);
-  final String title;
+  // homePage({Key key, this.title}) : super(key: key);
+  // final String title;
 
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
         appBar: AppBar(
           title: Text("Home"),
-          // Text("Home"),
         ),
         drawer: navigationDrawer(),
         body: Center(
@@ -24,18 +22,19 @@ class homePage extends StatelessWidget {
                 child:
                   Image(
                     image: AssetImage('./img/ebee.jpg'),
-                    height: 250,
-                    width: 250,
+                    height: 300,
                   ),
               ),
               Padding(
-                  padding: EdgeInsets.all(30.0),
+                  padding: EdgeInsets.all(40.0),
                 child: Text(
-                    "Meet Ebee! She's a robotic agent that will help in your "
-                    "goal of not saying certain words.",
+                    "Hi! I'm ebee, a social agent designed for helping you achieve a more inclusive vocabulary. "
+                    "I look forward to learning together!",
                 style:
                   TextStyle(
-                    fontSize: 16,
+                    fontSize: 20,
+                    letterSpacing: 0.5,
+                    height: 1.25,
                   ),
                 ),
               )

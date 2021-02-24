@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ebee_test/navigationDrawer/navigationDrawer.dart';
+import 'package:ebee_test/ebee_database.dart';
 
 class dictionaryPage extends StatelessWidget {
   static const String routeName = '/dictionaryPage';

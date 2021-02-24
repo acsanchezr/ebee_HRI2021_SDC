@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'package:ebee_test/fragments/homePage.dart';
-import 'package:ebee_test/fragments/aboutPage.dart';
-import 'package:ebee_test/fragments/add_wordPage.dart';
-import 'package:ebee_test/fragments/dictionaryPage.dart';
-import 'package:ebee_test/fragments/contactPage.dart';
+import 'package:ebee_test/pages/homePage.dart';
+import 'package:ebee_test/pages/aboutPage.dart';
+import 'package:ebee_test/pages/add_wordPage.dart';
+import 'package:ebee_test/pages/dictionaryPage.dart';
+import 'package:ebee_test/pages/contactPage.dart';
 
 class pageRoutes {
   static const String home = homePage.routeName;

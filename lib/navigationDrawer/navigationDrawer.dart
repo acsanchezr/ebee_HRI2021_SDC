@@ -13,26 +13,26 @@ class navigationDrawer extends StatelessWidget {
           createDrawerHeader(),
           createDrawerBodyItem(
             icon: Icons.home,
-            text: 'Home',
+            text: 'home',
             onTap: () =>
                 Navigator.pushReplacementNamed(context, pageRoutes.home),
           ),
           createDrawerBodyItem(
             icon: Icons.info_outline,
-            text: 'About',
+            text: 'about',
             onTap: () =>
                 Navigator.pushReplacementNamed(context, pageRoutes.about),
           ),
           createDrawerBodyItem(
             icon: Icons.add,
-            text: 'Add Word',
+            text: 'add word',
             onTap: () =>
                 Navigator.pushReplacementNamed(context, pageRoutes.add_word),
           ),
 
           createDrawerBodyItem(
             icon: Icons.menu_book,
-            text: 'Dictionary',
+            text: 'dictionary',
             onTap: () =>
                 Navigator.pushReplacementNamed(context, pageRoutes.dictionary),
           ),
@@ -40,7 +40,7 @@ class navigationDrawer extends StatelessWidget {
 
           createDrawerBodyItem(
             icon: Icons.contact_page,
-            text: 'Contact Info',
+            text: 'contact',
             onTap: () =>
                 Navigator.pushReplacementNamed(context, pageRoutes.contact),
           ),
