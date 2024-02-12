@@ -11,6 +11,6 @@ You can watch the video demo below, and read the full article here:
 [Using Negative Affect to Reinforce Moral Norms in Casual Speech](https://dl.acm.org/doi/abs/10.1145/3434074.3446952)
 
 
-## Video demo:
+### Video demo:
 
 https://github.com/acsanchezr/ebee_HRI2021_SDC/assets/24417887/6a38ac40-10f7-4ab9-af1b-1a2acee2171a
