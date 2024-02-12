@@ -1,16 +1,9 @@
-# ebee_test
+# Ebee project
 
-A new Flutter application.
+Ebee is a social robot developed for the robot student competition at the 2021 ACM/IEEE International Conference on Human-Robot Interaction. 
+Ebee was designed to help users stop using biased language. For example, a user that tends to refer to a gruop of people as "guys" might want to change that term for a more gender-inclusive one.
+This project contains the Flutter application that allows users to store the words that they wish to become more aware of, and 
 
-## Getting Started
+https://github.com/acsanchezr/ebee_HRI2021_SDC/assets/24417887/6a38ac40-10f7-4ab9-af1b-1a2acee2171a
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Alternate Text]({image-url})]({https://github.com/acsanchezr/ebee_HRI2021_SDC/assets/24417887/6a38ac40-10f7-4ab9-af1b-1a2acee2171a} "Link Title")
