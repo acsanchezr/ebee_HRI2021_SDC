@@ -1,8 +1,7 @@
 # Ebee project
 
 Ebee is a social robot developed for the robot student competition at the 2021 ACM/IEEE International Conference on Human-Robot Interaction. 
-Ebee was designed to help users stop using biased language. For example, a user that tends to refer to a gruop of people as "guys" might want to change that term for a more gender-inclusive one.
-This project contains the Flutter application that allows users to store the words that they wish to become more aware of, and 
+Ebee was designed to help users stop using biased language. For example, a user that tends to refer to a group of people as "guys" might want to change that term for a more gender-inclusive one. This project contains the Flutter application that allows users to store the words that they wish to become more aware of. 
 
 ## Video demo:
 
